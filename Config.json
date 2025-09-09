@@ -1,18 +1,18 @@
 {
-  "author": "IMRAN",
+  "author": "",
   "developermode": false,
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "imran",
-  "EMAIL": "sanjivfresh@gmail.com",
-  "PREFIX": "-",
+  "BOTNAME": "彡★🇹 🇴 x 🇮 c    🇧 🇴 🇹 🥵🤖★彡‌",
+  "EMAIL": "tmd498261@gmail.com",
+  "PREFIX": "/",
   "OPERATOR": [
-    "",
-    "100091459940475"
+    "100087466441450",
+    "100087466441450"
   ],
   "ADMINBOT": [
-    "100075122837809"
+    "100087466441450"
   ],
   "OWNER": ["100075122837809"],
   "disabledcmds": [],
